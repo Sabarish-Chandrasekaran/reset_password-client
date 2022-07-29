@@ -1,4 +1,4 @@
-export const host = "http://localhost:5000";
+export const host = "https://reset-password-mern.herokuapp.com";
 
 export const loginRoute = `${host}/user/login`;
 export const registerRoute = `${host}/user/register`;
